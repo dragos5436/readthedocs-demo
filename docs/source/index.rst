@@ -29,13 +29,18 @@ Moodle Monitoring:
 
 8.2 EOL = November 2025
 
-~~opinio-pp.ucl.ac.uk~~
+
 
 Cyclical
 
 Moodle - Global Deactivation SITS (Portico) Enrolment - Termly - x? weeks after start of term
 
 All services - Renew TLS certificates
+
+.. role:: strike
+    :class: strike
+
+:strike:`opinio-pp.ucl.ac.uk`
 
 .. list-table:: Service Renewal Information
    :header-rows: 1
@@ -64,15 +69,18 @@ All services - Renew TLS certificates
      - https://git.automation.ucl.ac.uk/wiki/wiki-cicd/-/tree/master/wiki-ansible/certs
    * - wiki-pp.ucl.ac.uk  
        myportfolio-pp.ucl.ac.uk  
-       ~~opinio-pp.ucl.ac.uk~~
+       :strike:`opinio-pp.ucl.ac.uk`
      - 26 October 2024
      - F5
    * - myportfolio.ucl.ac.uk  
-       ~~opinio-pp.ucl.ac.uk~~  
+       :strike:`opinio.ucl.ac.uk` 
        wiki.ucl.ac.uk
      - 14 November 2024
      - F5
 
+
+Second table
+===================================
 
 +----------+----------+----------+
 | Header 1 | Header 2 | Header 3 |
@@ -80,3 +88,16 @@ All services - Renew TLS certificates
 | | ~~Item 1~~ |          |          |
 | | Item 2 |          |          |
 +----------+----------+----------+
+
+Third table
+===================================
+.. list-table::
+
+ * - **HEADER1**
+   - **HEADER2**
+   - **HEADER3**
+ * - TEXT 1
+   - | MULTILINE 
+     | TEXT
+   - | MULTILINE
+     | TEXT 2
