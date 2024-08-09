@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'ISDMoodle Docs'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2024, Dragos'
+author = 'Dragos'
 
 release = '1.1'
 version = '1.1.0'
