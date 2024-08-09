@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'ISDMoodle Docs'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.1'
+version = '1.1.0'
 
 # -- General configuration
 
