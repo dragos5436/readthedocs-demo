@@ -63,20 +63,13 @@ All services - Renew TLS certificates
      - 26 October 2024
      - https://git.automation.ucl.ac.uk/wiki/wiki-cicd/-/tree/master/wiki-ansible/certs
    * - wiki-pp.ucl.ac.uk  
-     - 26 October 2024
-     - F5
-   * - myportfolio-pp.ucl.ac.uk  
-     - 26 October 2024
-     - F5
-   * - <s>opinio-pp.ucl.ac.uk</s>   
+       myportfolio-pp.ucl.ac.uk  
+       ~~opinio-pp.ucl.ac.uk~~
      - 26 October 2024
      - F5
    * - myportfolio.ucl.ac.uk  
+       ~~opinio-pp.ucl.ac.uk~~  
+       wiki.ucl.ac.uk
      - 14 November 2024
      - F5
-   * - <s>opinio.ucl.ac.uk</s>  
-     - 14 November 2024
-     - F5
-   * - wiki.ucl.ac.uk  
-     - 14 November 2024
-     - F5
+
