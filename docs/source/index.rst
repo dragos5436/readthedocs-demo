@@ -40,7 +40,6 @@ All services - Renew TLS certificates
 .. role:: strike
     :class: strike
 
-:strike:`opinio-pp.ucl.ac.uk`
 
 .. list-table:: Service Renewal Information
    :header-rows: 1
